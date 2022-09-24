@@ -1,0 +1,4 @@
+simpletransformers==0.63.9
+sklearn==1.0.2
+sentence_transformers==2.2.2
+Levenshtein

@@ -2,7 +2,7 @@ from simpletransformers.seq2seq import Seq2SeqModel
 from parakeet.knobs import Adequacy, Diversity
 
 class Parakeet():
-    def __init__(self, model_tag = "anshaj/Parakeet", use_gpu = False):
+    def __init__(self, model_tag = "anshaj/Parakeet_Paraphraser_BART", use_gpu = False):
         if use_gpu:
             device= "cuda:0"
         else:

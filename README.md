@@ -181,6 +181,12 @@ Input Sequence: Make text lighthearted by putting yourself in your customer’s 
 
 [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser): Parrot Paraphraser on T5
 
+## Contact
+Anshaj Goyal
+* (LinkedIn)[https://www.linkedin.com/in/anshaj-goyal/]
+* (Medium)[https://anshaj-goyal.medium.com/]
+* (HuggingFace)[https://huggingface.co/anshajgoyal]
+
 ## Citation
 
 To cite Parakeet-Paraphraser in your work, please use the following bibtex reference:

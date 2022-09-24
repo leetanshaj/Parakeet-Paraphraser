@@ -183,9 +183,9 @@ Input Sequence: Make text lighthearted by putting yourself in your customer’s 
 
 ## Contact
 Anshaj Goyal
-* (LinkedIn)[https://www.linkedin.com/in/anshaj-goyal/]
-* (Medium)[https://anshaj-goyal.medium.com/]
-* (HuggingFace)[https://huggingface.co/anshajgoyal]
+* [LinkedIn](https://www.linkedin.com/in/anshaj-goyal/)
+* [Medium](https://anshaj-goyal.medium.com/)
+* [HuggingFace](https://huggingface.co/anshajgoyal)
 
 ## Citation
 

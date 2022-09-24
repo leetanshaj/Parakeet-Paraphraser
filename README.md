@@ -1,5 +1,5 @@
 # Parakeet
-A paraphraser is a tool that is used to rewriting a piece of text in order to make it easier to understand. The tool is based on the Seq2Seq model, which is a neural network that is used to learn the structure of a text. The Seq2Seq model is trained on a large dataset of texts, and the paraphraser is able to use this information to generate a new piece of text that is easier to understand.
+A paraphraser is a tool that is used to rewrite a piece of text in order to make it easier to understand. The tool is based on the Seq2Seq model, which is a neural network that is used to learn the structure of a text. The Seq2Seq model is trained on a large dataset of texts, and the paraphraser is able to use this information to generate a new piece of text that is easier to understand.
 
 <img src="parakeet_image.png" width="40%" height="40%"/>
 

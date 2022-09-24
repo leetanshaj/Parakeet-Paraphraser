@@ -69,8 +69,6 @@ for sequence in sequences:
 
 ```
 Input Sequence: In addition, I will provide some portable original functions which you can use in any other NLP projects for preprocessing.
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.16it/s]
 	Output Sequence 0: In addition, I'll provide some preprocessing-optimized portable original functions that can be used in any other NLP project.
 	Adequacy: 0.9523109197616577
 	Diversity: 54.0
@@ -85,8 +83,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: Just collect them for free and share them on social media with the #NationalCoffeeDay hashtag
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.40it/s]
 	Output Sequence 0: Just collect them for free and share them on social media with the hashtag #NationalCoffeeDay.
 	Adequacy: 0.9925521612167358
 	Diversity: 82.0
@@ -101,8 +97,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: Baseball is one of the most popular sports in the world, and for good reason.
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.63it/s]
 	Output Sequence 0: Baseball is one of the most popular sports in the world, and for good reason.
 	Adequacy: 1.000000238418579
 	Diversity: 100.0
@@ -117,8 +111,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: Every year, National Coffee Day will be celebrated on September 29 in the United States and International Coffee Day will be celebrated on October 1.
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.15it/s]
 	Output Sequence 0: National Coffee Day will be celebrated in the United States on September 29 every year, while International Coffee Day is celebrated on October 1.
 	Adequacy: 0.991370439529419
 	Diversity: 60.0
@@ -133,8 +125,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: Keeping your dog safe is very important for us.
-Generating outputs: 100%
-1/1 [00:00<00:00, 4.15it/s]
 	Output Sequence 0: We are very concerned about keeping your dog safe.
 	Adequacy: 0.8645513653755188
 	Diversity: 20.0
@@ -149,8 +139,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: In fact, it wouldn’t be wrong to claim that the success and failure of your campaigns hinge on the email marketing software you choose to employ.
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.39it/s]
 	Output Sequence 0: In fact, the success and failure of your campaigns are dependent on the email marketing software you choose to employ.
 	Adequacy: 0.8885285258293152
 	Diversity: 68.0
@@ -165,8 +153,6 @@ Generating outputs: 100%
 
 __________________________________________________
 Input Sequence: Make text lighthearted by putting yourself in your customer’s shoes.
-Generating outputs: 100%
-1/1 [00:00<00:00, 2.77it/s]
 	Output Sequence 0: By putting yourself in your customer's shoes, you can make text lighthearted.
 	Adequacy: 0.9514826536178589
 	Diversity: 27.0
@@ -183,7 +169,10 @@ Generating outputs: 100%
 **Adeuqacy** : The scores for Adequacy ranges from 0.0 to 1 and shows the semantic similarity between input and output. (The higher the better)
 
 **Diversity** : The score for Diversity ranges from 0 to 100 which is normalised and shows the syntactic similarity between input and output. (The lower the better)
-**You can turn off Adequacy and Diversity scores by using return_diversity_score=False, return_similarity_score=False**
+
+**You can turn off Adequacy and Diversity scores by using**
+```python return_diversity_score=False, return_similarity_score=False```
+
 
 ## References
 [BART](https://arxiv.org/pdf/1910.13461.pdf): Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension 
@@ -191,7 +180,6 @@ Generating outputs: 100%
 [CoRPG](https://github.com/L-Zhe/CoRPG): Document-Level Paraphrase Generation with Sentence Rewriting and Reordering
 
 [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser): Parrot Paraphraser on T5
-
 
 ## Citation
 

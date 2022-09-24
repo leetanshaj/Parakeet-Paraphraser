@@ -35,6 +35,7 @@ The mostly well-known open-source paraphrasing tool which is [Parrot,](https://g
 1. MSRPC
 2. Quora QNA Pairs
 3. Google PAWS
+
 In this model the dataset being used to train is human created data which offers good creativity and metric scores.
 Also Parrot is trained on T5 which is quite heavy model and when compared to current model (BART), was very slow on the same system whereas Parakeet was faster and that also makes it apt for batch data augmentation.
 
